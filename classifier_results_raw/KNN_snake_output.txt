@@ -1,0 +1,352 @@
+Hello from compute68.bgsc.cluster
+Done with train
+Subject: 1
+              precision    recall  f1-score   support
+
+           0       0.89      0.97      0.93     11997
+           1       0.97      0.88      0.92     11997
+
+    accuracy                           0.93     23994
+   macro avg       0.93      0.93      0.93     23994
+weighted avg       0.93      0.93      0.93     23994
+
+tn:11666 fp:331 fn:1403 tp:10594
+0.9277319329832459
+EER: 0.05051262815703926
+prob_predicts: [0 1 0 ... 0 1 0]
+Subject: 2
+              precision    recall  f1-score   support
+
+           0       0.71      0.94      0.81     11141
+           1       0.91      0.61      0.73     11141
+
+    accuracy                           0.78     22282
+   macro avg       0.81      0.78      0.77     22282
+weighted avg       0.81      0.78      0.77     22282
+
+tn:10504 fp:637 fn:4316 tp:6825
+0.7777129521586932
+EER: 0.21326631361637197
+prob_predicts: [1 0 0 ... 0 0 0]
+Subject: 3
+              precision    recall  f1-score   support
+
+           0       0.70      0.91      0.79     11342
+           1       0.88      0.62      0.72     11342
+
+    accuracy                           0.76     22684
+   macro avg       0.79      0.76      0.76     22684
+weighted avg       0.79      0.76      0.76     22684
+
+tn:10355 fp:987 fn:4366 tp:6976
+0.764018691588785
+EER: 0.2925409980603068
+prob_predicts: [1 0 0 ... 1 1 0]
+Subject: 4
+              precision    recall  f1-score   support
+
+           0       0.73      0.96      0.83     12406
+           1       0.94      0.66      0.77     12406
+
+    accuracy                           0.81     24812
+   macro avg       0.84      0.81      0.80     24812
+weighted avg       0.84      0.81      0.80     24812
+
+tn:11851 fp:555 fn:4274 tp:8132
+0.8053764307593101
+EER: 0.18515234563920682
+prob_predicts: [0 1 1 ... 0 1 0]
+Subject: 5
+              precision    recall  f1-score   support
+
+           0       0.70      0.92      0.80     10473
+           1       0.88      0.61      0.72     10473
+
+    accuracy                           0.76     20946
+   macro avg       0.79      0.76      0.76     20946
+weighted avg       0.79      0.76      0.76     20946
+
+tn:9587 fp:886 fn:4052 tp:6421
+0.7642509309653395
+EER: 0.28759667716986537
+prob_predicts: [0 1 0 ... 1 1 1]
+Subject: 6
+              precision    recall  f1-score   support
+
+           0       0.70      0.91      0.79     11375
+           1       0.87      0.61      0.72     11375
+
+    accuracy                           0.76     22750
+   macro avg       0.78      0.76      0.75     22750
+weighted avg       0.78      0.76      0.75     22750
+
+tn:10318 fp:1057 fn:4441 tp:6934
+0.7583296703296704
+EER: 0.3038241758241758
+prob_predicts: [0 1 1 ... 1 1 0]
+Subject: 7
+              precision    recall  f1-score   support
+
+           0       0.70      0.93      0.80     11742
+           1       0.90      0.61      0.72     11742
+
+    accuracy                           0.77     23484
+   macro avg       0.80      0.77      0.76     23484
+weighted avg       0.80      0.77      0.76     23484
+
+tn:10957 fp:785 fn:4621 tp:7121
+0.7698007153806847
+EER: 0.2672457843638222
+prob_predicts: [1 1 1 ... 0 1 1]
+Subject: 8
+              precision    recall  f1-score   support
+
+           0       0.71      0.91      0.80     10304
+           1       0.88      0.62      0.73     10304
+
+    accuracy                           0.77     20608
+   macro avg       0.79      0.77      0.76     20608
+weighted avg       0.79      0.77      0.76     20608
+
+tn:9398 fp:906 fn:3904 tp:6400
+0.7665954968944099
+EER: 0.2905667701863354
+prob_predicts: [0 1 1 ... 1 1 1]
+Subject: 9
+              precision    recall  f1-score   support
+
+           0       0.70      0.93      0.80     10778
+           1       0.89      0.60      0.72     10778
+
+    accuracy                           0.76     21556
+   macro avg       0.80      0.76      0.76     21556
+weighted avg       0.80      0.76      0.76     21556
+
+tn:9997 fp:781 fn:4285 tp:6493
+0.7649842271293376
+EER: 0.2565411022453145
+prob_predicts: [1 0 1 ... 0 0 1]
+Subject: 10
+              precision    recall  f1-score   support
+
+           0       0.70      0.92      0.79     11847
+           1       0.88      0.60      0.71     11847
+
+    accuracy                           0.76     23694
+   macro avg       0.79      0.76      0.75     23694
+weighted avg       0.79      0.76      0.75     23694
+
+tn:10877 fp:970 fn:4724 tp:7123
+0.7596859964547986
+EER: 0.2847134295602262
+prob_predicts: [0 0 0 ... 0 1 0]
+Subject: 11
+              precision    recall  f1-score   support
+
+           0       0.70      0.92      0.80     10742
+           1       0.89      0.61      0.72     10742
+
+    accuracy                           0.76     21484
+   macro avg       0.79      0.76      0.76     21484
+weighted avg       0.79      0.76      0.76     21484
+
+tn:9898 fp:844 fn:4235 tp:6507
+0.7635915099609011
+EER: 0.28542170917892384
+prob_predicts: [0 0 0 ... 0 0 1]
+Subject: 12
+              precision    recall  f1-score   support
+
+           0       0.71      0.90      0.80      9860
+           1       0.87      0.64      0.73      9860
+
+    accuracy                           0.77     19720
+   macro avg       0.79      0.77      0.77     19720
+weighted avg       0.79      0.77      0.77     19720
+
+tn:8918 fp:942 fn:3587 tp:6273
+0.7703346855983771
+EER: 0.3018255578093306
+prob_predicts: [0 0 0 ... 1 1 1]
+Subject: 13
+              precision    recall  f1-score   support
+
+           0       0.72      0.91      0.80     11053
+           1       0.88      0.64      0.74     11053
+
+    accuracy                           0.77     22106
+   macro avg       0.80      0.77      0.77     22106
+weighted avg       0.80      0.77      0.77     22106
+
+tn:10045 fp:1008 fn:3981 tp:7072
+0.7743146657016196
+EER: 0.29611870080521124
+prob_predicts: [0 0 0 ... 1 1 0]
+Subject: 14
+              precision    recall  f1-score   support
+
+           0       0.73      0.90      0.81     11867
+           1       0.87      0.66      0.75     11867
+
+    accuracy                           0.78     23734
+   macro avg       0.80      0.78      0.78     23734
+weighted avg       0.80      0.78      0.78     23734
+
+tn:10700 fp:1167 fn:4011 tp:7856
+0.7818319710120503
+EER: 0.2735316423695964
+prob_predicts: [1 1 1 ... 1 0 1]
+Subject: 15
+              precision    recall  f1-score   support
+
+           0       0.71      0.90      0.80     12118
+           1       0.87      0.64      0.74     12118
+
+    accuracy                           0.77     24236
+   macro avg       0.79      0.77      0.77     24236
+weighted avg       0.79      0.77      0.77     24236
+
+tn:10934 fp:1184 fn:4362 tp:7756
+0.7711668592176927
+EER: 0.28560818616933487
+prob_predicts: [0 1 1 ... 1 0 1]
+Subject: 16
+              precision    recall  f1-score   support
+
+           0       0.84      0.95      0.89     16548
+           1       0.94      0.82      0.88     16548
+
+    accuracy                           0.89     33096
+   macro avg       0.89      0.89      0.89     33096
+weighted avg       0.89      0.89      0.89     33096
+
+tn:15676 fp:872 fn:2914 tp:13634
+0.885605511240029
+EER: 0.12684312303601644
+prob_predicts: [1 1 0 ... 0 0 0]
+Subject: 17
+              precision    recall  f1-score   support
+
+           0       0.80      0.97      0.88     14540
+           1       0.96      0.76      0.85     14540
+
+    accuracy                           0.86     29080
+   macro avg       0.88      0.86      0.86     29080
+weighted avg       0.88      0.86      0.86     29080
+
+tn:14042 fp:498 fn:3443 tp:11097
+0.8644773039889959
+EER: 0.10832187070151307
+prob_predicts: [1 1 0 ... 1 0 1]
+Subject: 18
+              precision    recall  f1-score   support
+
+           0       0.80      0.96      0.87     12055
+           1       0.95      0.75      0.84     12055
+
+    accuracy                           0.86     24110
+   macro avg       0.88      0.86      0.86     24110
+weighted avg       0.88      0.86      0.86     24110
+
+tn:11627 fp:428 fn:2985 tp:9070
+0.8584404811281625
+EER: 0.1176275404396516
+prob_predicts: [0 0 1 ... 0 0 0]
+Subject: 19
+              precision    recall  f1-score   support
+
+           0       0.77      0.96      0.85     13907
+           1       0.94      0.71      0.81     13907
+
+    accuracy                           0.83     27814
+   macro avg       0.85      0.83      0.83     27814
+weighted avg       0.85      0.83      0.83     27814
+
+tn:13290 fp:617 fn:4081 tp:9826
+0.831092255698569
+EER: 0.15488602861868123
+prob_predicts: [1 1 0 ... 1 0 0]
+Subject: 20
+              precision    recall  f1-score   support
+
+           0       0.81      0.98      0.88     14138
+           1       0.97      0.76      0.86     14138
+
+    accuracy                           0.87     28276
+   macro avg       0.89      0.87      0.87     28276
+weighted avg       0.89      0.87      0.87     28276
+
+tn:13849 fp:289 fn:3354 tp:10784
+0.8711628235959824
+EER: 0.1532041307115575
+prob_predicts: [1 1 1 ... 0 0 1]
+Subject: 21
+              precision    recall  f1-score   support
+
+           0       0.82      0.95      0.88     13083
+           1       0.94      0.79      0.86     13083
+
+    accuracy                           0.87     26166
+   macro avg       0.88      0.87      0.87     26166
+weighted avg       0.88      0.87      0.87     26166
+
+tn:12470 fp:613 fn:2745 tp:10338
+0.8716655201406406
+EER: 0.12642360314912482
+prob_predicts: [0 0 0 ... 1 1 0]
+Subject: 22
+              precision    recall  f1-score   support
+
+           0       0.82      0.95      0.88     13880
+           1       0.94      0.79      0.86     13880
+
+    accuracy                           0.87     27760
+   macro avg       0.88      0.87      0.87     27760
+weighted avg       0.88      0.87      0.87     27760
+
+tn:13192 fp:688 fn:2939 tp:10941
+0.8693443804034582
+EER: 0.1202449567723343
+prob_predicts: [0 0 0 ... 0 1 0]
+Subject: 23
+              precision    recall  f1-score   support
+
+           0       0.78      0.93      0.85     12405
+           1       0.92      0.74      0.82     12405
+
+    accuracy                           0.84     24810
+   macro avg       0.85      0.84      0.84     24810
+weighted avg       0.85      0.84      0.84     24810
+
+tn:11596 fp:809 fn:3189 tp:9216
+0.8388553002821443
+EER: 0.17597742845626763
+prob_predicts: [0 0 1 ... 0 1 0]
+Subject: 24
+              precision    recall  f1-score   support
+
+           0       0.79      0.96      0.87     13831
+           1       0.94      0.75      0.84     13831
+
+    accuracy                           0.85     27662
+   macro avg       0.87      0.85      0.85     27662
+weighted avg       0.87      0.85      0.85     27662
+
+tn:13215 fp:616 fn:3430 tp:10401
+0.8537343648326223
+EER: 0.14453040271853085
+prob_predicts: [1 0 1 ... 1 0 0]
+Subject: 25
+              precision    recall  f1-score   support
+
+           0       0.81      0.97      0.88     12255
+           1       0.96      0.77      0.86     12255
+
+    accuracy                           0.87     24510
+   macro avg       0.89      0.87      0.87     24510
+weighted avg       0.89      0.87      0.87     24510
+
+tn:11892 fp:363 fn:2803 tp:9452
+0.870828233374133
+EER: 0.1463892288861689
+prob_predicts: [0 1 0 ... 0 0 1]
